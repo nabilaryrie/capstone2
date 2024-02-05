@@ -1,6 +1,3 @@
-
-Based on the data provided, here's a draft for the README:
-
 TransJakarta Passenger Experience Optimization
 Introduction
 TransJakarta has experienced a significant increase in passenger count and route since its inception in 2004. To accommodate this growth and ensure optimal passenger experience, several strategies have been devised to improve service quality and optimize payment options for increased profitability.
